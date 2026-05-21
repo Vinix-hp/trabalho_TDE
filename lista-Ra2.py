@@ -255,13 +255,13 @@ matriz = [
 for i in range(len(matriz)):
     print(matriz[i][i])
 
-# Exercício 49 - com numpy
+"""# Exercício 49 - com numpy
 import numpy as np
 m = np.array([[1, 2], [3, 4]])
-print(m * 2)
+print(m * 2)"""
 
-# Exercício 50 - com numpy
+"""# Exercício 50 - com numpy
 import numpy as np
 A = np.array([[1, 2], [3, 4]])
 B = np.array([[5, 6], [7, 8]])
-print(A + B)
+print(A + B)"""
