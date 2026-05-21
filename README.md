@@ -1,0 +1,1 @@
+# trabalho tDE de Raciocínio Algorítmico
